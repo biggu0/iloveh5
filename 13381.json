@@ -1,0 +1,353 @@
+jsonp2({
+    "code": 0,
+    "data": {
+        "dataList": [{
+            "across_book_max_days": 0,
+            "across_book_offset_days": 0,
+            "avg_delivery_time": 40,
+            "brand_id": 154,
+            "discounts2": [{
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/82a7fc1eb81256ae36e40d18462df7d62048.png",
+                "info": "新用户立减12元（在线支付专享）",
+                "sequence": 1,
+                "type": 4,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/489603b79cd3a1ada6288c2a7c7badb42048.png",
+                "info": "满30减5;满40减7;满60减10（在线支付专享）",
+                "sequence": 3,
+                "type": 6,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/7bcb0108f928f772a35aad98ea92aabe2048.png",
+                "info": "折扣商品5折起（在线支付专享）",
+                "sequence": 3,
+                "type": 19,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/95cab4b324fb4d0ff4ba71ff7726195c2048.png",
+                "info": "该商家支持在线支付",
+                "sequence": 50,
+                "type": 10,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/64ef9816a83879984ea82f3dc55fd81a2048.png",
+                "info": "支持开发票，开票金额1元起。请在下单时填好开票抬头。",
+                "sequence": 51,
+                "type": 11,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/2cdedb516dd2c6cd5fe35ab92b9243de2048.png",
+                "info": "实际支付40元返5元商家代金券（使用规则由商家提供，详见商家规则）",
+                "sequence": 99,
+                "type": 20,
+                "use_icon_from_server": 1
+            }],
+            "distance": 266.388464055645,
+            "dp_avg_price": 25,
+            "dp_id": 9510679,
+            "dp_score": 35,
+            "id": 657627,
+            "is_favorite": 0,
+            "min_price": 30,
+            "month_sale_num": 0,
+            "name": "德克士（拉萨昌都餐厅）",
+            "pic_url": "http://p1.meituan.net/xianfu/17cf45bad369d5afe69ef96b699bbe844096.jpg",
+            "poi_id": 6830507,
+            "pre_book": 0,
+            "score": 7,
+            "shipping_fee": 0,
+            "shipping_time_x": "[[\"09:30-22:00\"],[\"09:30-22:00\"],[\"09:30-22:00\"],[\"09:30-22:00\"],[\"09:30-22:00\"],[\"09:30-22:00\"],[\"09:30-22:00\"]]",
+            "status": 1,
+            "support_coupon": 0,
+            "wm_poi_opening_days": 295,
+            "wm_poi_score": 0
+        },
+        {
+            "across_book_max_days": 0,
+            "across_book_offset_days": 0,
+            "avg_delivery_time": 40,
+            "brand_id": 0,
+            "discounts2": [{
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/95cab4b324fb4d0ff4ba71ff7726195c2048.png",
+                "info": "该商家支持在线支付",
+                "sequence": 50,
+                "type": 10,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/64ef9816a83879984ea82f3dc55fd81a2048.png",
+                "info": "支持开发票，开票金额0元起。请在下单时填好开票抬头。",
+                "sequence": 51,
+                "type": 11,
+                "use_icon_from_server": 1
+            }],
+            "distance": 712.5079509683412,
+            "dp_avg_price": 0,
+            "dp_id": 69816403,
+            "dp_score": 0,
+            "id": 1183076,
+            "is_favorite": 0,
+            "min_price": 3,
+            "month_sale_num": 0,
+            "name": "休斯顿肥牛",
+            "pic_url": "http://p1.meituan.net/xianfu/f4ed930ac6d7fd1144c927ae9b3947d820480.jpg",
+            "poi_id": 117513704,
+            "pre_book": 0,
+            "score": 4,
+            "shipping_fee": 5,
+            "shipping_time_x": "[[\"10:00-23:00\"],[\"10:00-23:00\"],[\"10:00-23:00\"],[\"10:00-23:00\"],[\"10:00-23:00\"],[\"10:00-23:00\"],[\"10:00-23:00\"]]",
+            "status": 1,
+            "support_coupon": 0,
+            "wm_poi_opening_days": 109,
+            "wm_poi_score": 0
+        },
+        {
+            "across_book_max_days": 0,
+            "across_book_offset_days": 0,
+            "avg_delivery_time": 44,
+            "brand_id": 438,
+            "discounts2": [{
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/489603b79cd3a1ada6288c2a7c7badb42048.png",
+                "info": "满60减8（在线支付专享）",
+                "sequence": 3,
+                "type": 6,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/7bcb0108f928f772a35aad98ea92aabe2048.png",
+                "info": "折扣商品5折起（在线支付专享）",
+                "sequence": 3,
+                "type": 19,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/95cab4b324fb4d0ff4ba71ff7726195c2048.png",
+                "info": "该商家支持在线支付",
+                "sequence": 50,
+                "type": 10,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/64ef9816a83879984ea82f3dc55fd81a2048.png",
+                "info": "支持开发票，开票金额0元起。请在下单时填好开票抬头。",
+                "sequence": 51,
+                "type": 11,
+                "use_icon_from_server": 1
+            }],
+            "distance": 2299836.26876882,
+            "dp_avg_price": 0,
+            "dp_id": 41533104,
+            "dp_score": 0,
+            "id": 290768,
+            "is_favorite": 0,
+            "min_price": 30,
+            "month_sale_num": 8,
+            "name": "百胜昌都必胜店",
+            "pic_url": "http://p1.meituan.net/xianfu/020dcd12d3ee39b8b236373d94ee0da56144.jpg",
+            "poi_id": 40754890,
+            "pre_book": 0,
+            "score": 3,
+            "shipping_fee": 9,
+            "shipping_time_x": "[[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"]]",
+            "status": 1,
+            "support_coupon": 0,
+            "wm_poi_opening_days": 470,
+            "wm_poi_score": 0
+        },
+        {
+            "across_book_max_days": 1,
+            "across_book_offset_days": 0,
+            "avg_delivery_time": 40,
+            "brand_id": 0,
+            "discounts2": [{
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/82a7fc1eb81256ae36e40d18462df7d62048.png",
+                "info": "新用户立减12元（在线支付专享）",
+                "sequence": 1,
+                "type": 4,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/489603b79cd3a1ada6288c2a7c7badb42048.png",
+                "info": "满10减9;满15减14;满25减23（在线支付专享）",
+                "sequence": 3,
+                "type": 6,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/7bcb0108f928f772a35aad98ea92aabe2048.png",
+                "info": "折扣商品0.6折起（在线支付专享）",
+                "sequence": 3,
+                "type": 19,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/__43237608__8848957.png",
+                "info": "赠500ml王老吉(在线支付专享)",
+                "sequence": 7,
+                "type": 8,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/__43472532__9414591.png",
+                "info": "赠450ml鲜橙多(在线支付专享)",
+                "sequence": 7,
+                "type": 8,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/0592d161b344008072ffb39a3fb03e801956.jpg",
+                "info": "聘外卖员(在线支付专享)",
+                "sequence": 7,
+                "type": 8,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/72b06676d747fea378a2106e2cdb28ce2048.png",
+                "info": "07:00-11:00下单减5元；14:00-16:00下单减3元",
+                "sequence": 8,
+                "type": 15,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p0.meituan.net/xianfu/cbb29fb6485dba9790dc3938478cf94d2048.png",
+                "info": "满0.01元赠送测试赠品名称",
+                "sequence": 9,
+                "type": 2,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/95cab4b324fb4d0ff4ba71ff7726195c2048.png",
+                "info": "该商家支持在线支付",
+                "sequence": 50,
+                "type": 10,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/64ef9816a83879984ea82f3dc55fd81a2048.png",
+                "info": "支持开发票，开票金额5元起。请在下单时填好开票抬头。",
+                "sequence": 51,
+                "type": 11,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/2cdedb516dd2c6cd5fe35ab92b9243de2048.png",
+                "info": "实际支付1元返11元商家代金券（使用规则由商家提供，详见商家规则）",
+                "sequence": 99,
+                "type": 20,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 0,
+                "icon_url": "",
+                "info": "每单可享2份赠品",
+                "sequence": 99,
+                "type": 0,
+                "use_icon_from_server": 0
+            }],
+            "distance": 55696.69705468692,
+            "dp_avg_price": 0,
+            "dp_id": 40931859,
+            "dp_score": 0,
+            "id": 335423,
+            "is_favorite": 0,
+            "min_price": 1,
+            "month_sale_num": 0,
+            "name": "【请勿更改店铺配置】昌都24小时糖果屋（不许改起送价）",
+            "pic_url": "http://p0.meituan.net/xianfu/c62912500701183edece0fc75deba09017652.jpg",
+            "poi_id": 50545988,
+            "pre_book": 1,
+            "score": 2,
+            "shipping_fee": 1,
+            "shipping_time_x": "[[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"],[\"09:25-21:00\",\"21:01-23:59\"]]",
+            "status": 1,
+            "support_coupon": 1,
+            "wm_poi_opening_days": 448,
+            "wm_poi_score": 0
+        },
+        {
+            "across_book_max_days": 0,
+            "across_book_offset_days": 0,
+            "avg_delivery_time": 40,
+            "brand_id": 437,
+            "discounts2": [{
+                "display_code": 2,
+                "icon_url": "http://p1.meituan.net/xianfu/82a7fc1eb81256ae36e40d18462df7d62048.png",
+                "info": "新用户立减15元（在线支付专享）",
+                "sequence": 1,
+                "type": 4,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/95cab4b324fb4d0ff4ba71ff7726195c2048.png",
+                "info": "该商家支持在线支付",
+                "sequence": 50,
+                "type": 10,
+                "use_icon_from_server": 1
+            },
+            {
+                "display_code": 1,
+                "icon_url": "http://p0.meituan.net/xianfu/64ef9816a83879984ea82f3dc55fd81a2048.png",
+                "info": "支持开发票，开票金额1元起。请在下单时填好开票抬头。",
+                "sequence": 51,
+                "type": 11,
+                "use_icon_from_server": 1
+            }],
+            "distance": 606.4726719892199,
+            "dp_avg_price": 0,
+            "dp_id": 58221706,
+            "dp_score": 35,
+            "id": 219096,
+            "is_favorite": 0,
+            "min_price": 0.1,
+            "month_sale_num": 0,
+            "name": "肯德基测试店",
+            "pic_url": "http://p1.meituan.net/crm/__37375183__1582979.jpg",
+            "poi_id": 92854286,
+            "pre_book": 0,
+            "score": 1,
+            "shipping_fee": 0.1,
+            "shipping_time_x": "[[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"],[\"10:00-22:00\"]]",
+            "status": 1,
+            "support_coupon": 0,
+            "wm_poi_opening_days": 505,
+            "wm_poi_score": 0
+        }],
+        "dataType": 1,
+        "geohash": "wjt15k71myqu",
+        "is_have_next": true,
+        "page_num": 1,
+        "page_size": 5,
+        "total_num": 9
+    },
+    "msg": "成功"
+})
