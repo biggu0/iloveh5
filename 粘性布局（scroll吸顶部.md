@@ -12,3 +12,5 @@
 
 ## 2.常用实现方式
 
+ ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
